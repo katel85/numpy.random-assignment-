@@ -1,6 +1,11 @@
 # Programming for Data Analysis Numpy Random Package Assignment 
 
 
+![Logo]('readmeimage.png')
+
+
+
+
 # Problem statement:
 The following assignment concerns the numpy.random package in Python. You are
 required to create a Jupyter notebook explaining the use of the package, including
