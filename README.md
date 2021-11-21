@@ -1,7 +1,7 @@
 # Programming for Data Analysis Numpy Random Package Assignment 
 
 
-![Logo]('readmeimage.png')
+![Logos](img/readmeimage.png)
 
 
 
