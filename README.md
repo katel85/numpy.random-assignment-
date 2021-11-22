@@ -29,7 +29,9 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 - Once the link has been cloned to your machine correctly you will be able to open the file by typing jupyter lab in the command line.
 - This is an interactive notebook that will require some input from the viewer. 
 - To run the entire notebook we must go to the Kernal tab and select "Restart Kernal and Run All "
-- This jupyter notebook can also be viewed on the nbviewer 
+- This jupyter notebook can also be viewed at the following URL:
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/katel85/numpy.random-assignment-/blob/main/numpy.random.ipynb)
+
 
 # References:
 
