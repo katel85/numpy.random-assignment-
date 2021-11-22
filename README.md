@@ -16,7 +16,8 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 4. Explain the use of seeds in generating pseudorandom numbers.
 
 # Applications Used with this Jupyter Notebook:
-- Anaconda
+- Anaconda with Python version 3.8.8.
+- Install the latest version of git on your machine.
 - CMDER
 - VS Code
 
